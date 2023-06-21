@@ -2,7 +2,7 @@
 
 
 ## 1- Certificate
-![images/img.png](img.png)
+![images/img.png](img.png)](https://github.com/Hoda-Shad/Machin-Learning/blob/main/Assignment2/images/img.png)
 
 ## 2- Implement 🍎 and bananas 🍌 data analysis problem
 
