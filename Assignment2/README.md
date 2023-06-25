@@ -12,3 +12,4 @@
 ![img_1.png](images%2Fimg_1.png)
 
 ## 4- California cities problem
+![img_1.png](images%2Fimg_4.png)
