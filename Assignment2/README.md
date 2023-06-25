@@ -10,3 +10,5 @@
 ## 3- Plot balloons 🎈 and melons 🍈
 
 ![img_1.png](images%2Fimg_1.png)
+
+## 4- California cities problem
