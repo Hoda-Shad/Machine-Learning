@@ -3,6 +3,6 @@
 ![1.png](..%2Fimages%2F1.png)
 
 # 2-COVID-19 
-* ![covid-1.png](..%2Fimages%2Fcovid-1.png)
-* 
+![covid-1.png](..%2Fimages%2Fcovid-1.png)
+![covid_iran.png](..%2Fimages%2Fcovid_iran.png)
 
