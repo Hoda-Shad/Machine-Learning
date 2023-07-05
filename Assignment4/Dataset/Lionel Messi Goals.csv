@@ -1,0 +1,652 @@
+Date,Competition Name,Home team,Opponent,Away team,Minute,Score Home Team - When Messi Scored,Score Away Team - When Messi Scored,Goal Type,Goal Method,Final Game Result
+ 16 - 2 - 2019,Liga,FC Barcelona,Real Valladolid,Real Valladolid,43,1,0,Penalty,Left foot,Won
+ 13 - 1 - 2019,Liga,FC Barcelona,Eibar,Eibar,53,2,0,Field goal,Left foot,Won
+ 22 - 12 - 2018,Liga,FC Barcelona,Celta de Vigo,Celta de Vigo,45,2,0,Field goal,Left foot,Won
+ 20 - 10 - 2018,Liga,FC Barcelona,Sevilla,Sevilla,12,2,0,Field goal,Left foot,Won
+ 23 - 9 - 2018,Liga,FC Barcelona,Girona,Girona,19,1,0,Field goal,Left foot,Draw
+ 18 - 8 - 2018,Liga,FC Barcelona,Alaves ,Alaves ,90+2,3,0,Field goal,Left foot,Won
+ 18 - 8 - 2018,Liga,FC Barcelona,Alaves ,Alaves ,64,1,0,Free kick,Left foot,Won
+ 9 - 5 - 2018,Liga,FC Barcelona,Villarreal,Villarreal,45,3,0,Field goal,Left foot,Won
+ 7 - 4 - 2018,Liga,FC Barcelona,Leganes,Leganes,32,2,0,Field goal,Left foot,Won
+ 7 - 4 - 2018,Liga,FC Barcelona,Leganes,Leganes,27,1,0,Free kick,Left foot,Won
+ 18 - 3 - 2018,Liga,FC Barcelona,Athletic de Bilbao,Athletic de Bilbao,30,2,0,Field goal,Left foot,Won
+ 4 - 3 - 2018,Liga,FC Barcelona,Atletico Madrid,Atletico Madrid,26,1,0,Free kick,Left foot,Won
+ 7 - 1 - 2018,Liga,FC Barcelona,Levante,Levante,12,1,0,Field goal,Left foot,Won
+ 1 - 10 - 2017,Liga,FC Barcelona,Las Palmas,Las Palmas,77,3,0,Field goal,Left foot,Won
+ 1 - 10 - 2017,Liga,FC Barcelona,Las Palmas,Las Palmas,71,2,0,Field goal,Left foot,Won
+ 19 - 9 - 2017,Liga,FC Barcelona,Eibar,Eibar,20,1,0,Penalty,Left foot,Won
+ 9 - 9 - 2017,Liga,FC Barcelona,Espanyol,Espanyol,67,3,0,Field goal,Left foot,Won
+ 9 - 9 - 2017,Liga,FC Barcelona,Espanyol,Espanyol,26,1,0,Field goal,Left foot,Won
+ 26 - 4 - 2017,Liga,FC Barcelona,Osasuna,Osasuna,12,1,0,Field goal,Left foot,Won
+ 15 - 4 - 2017,Liga,FC Barcelona,Real Sociedad,Real Sociedad,37,2,0,Rebound,Left foot,Won
+ 15 - 4 - 2017,Liga,FC Barcelona,Real Sociedad,Real Sociedad,17,1,0,Field goal,Left foot,Won
+ 5 - 4 - 2017,Liga,FC Barcelona,Sevilla,Sevilla,33,3,0,Field goal,Left foot,Won
+ 4 - 3 - 2017,Liga,FC Barcelona,Celta de Vigo,Celta de Vigo,64,5,0,Solo run,Left foot,Won
+ 4 - 3 - 2017,Liga,FC Barcelona,Celta de Vigo,Celta de Vigo,24,1,0,Solo run,Left foot,Won
+ 4 - 2 - 2017,Liga,FC Barcelona,Athletic de Bilbao,Athletic de Bilbao,40,2,0,Free kick,Left foot,Won
+ 15 - 10 - 2016,Liga,FC Barcelona,Deportivo La Coruna,Deportivo La Coruna,58,4,0,Field goal,Left foot,Won
+ 8 - 5 - 2016,Liga,FC Barcelona,Espanyol,Espanyol,8,1,0,Free kick,Left foot,Won
+ 12 - 3 - 2016,Liga,FC Barcelona,Getafe,Getafe,40,4,0,Field goal,Left foot,Won
+ 14 - 2 - 2016,Liga,FC Barcelona,Celta de Vigo,Celta de Vigo,28,1,0,Free kick,Left foot,Won
+ 17 - 1 - 2016,Liga,FC Barcelona,Athletic de Bilbao,Athletic de Bilbao,7,1,0,Penalty,Left foot,Won
+ 9 - 1 - 2016,Liga,FC Barcelona,Granada,Granada,58,3,0,Rebound,Left foot,Won
+ 9 - 1 - 2016,Liga,FC Barcelona,Granada,Granada,14,2,0,Field goal,Left foot,Won
+ 9 - 1 - 2016,Liga,FC Barcelona,Granada,Granada,8,1,0,Field goal,Left foot,Won
+ 12 - 12 - 2015,Liga,FC Barcelona,Deportivo La Coruna,Deportivo La Coruna,39,1,0,Free kick,Left foot,Draw
+ 28 - 11 - 2015,Liga,FC Barcelona,Real Sociedad,Real Sociedad,90+1,4,0,Field goal,Left foot,Won
+ 20 - 9 - 2015,Liga,FC Barcelona,Levante,Levante,61,3,0,Penalty,Left foot,Won
+ 28 - 4 - 2015,Liga,FC Barcelona,Getafe,Getafe,47,6,0,,Left foot,Won
+ 28 - 4 - 2015,Liga,FC Barcelona,Getafe,Getafe,9,1,0,Penalty,Left foot,Won
+ 18 - 4 - 2015,Liga,FC Barcelona,Valencia,Valencia,90+4,2,0,Rebound,Left foot,Won
+ 8 - 4 - 2015,Liga,FC Barcelona,UD Almeria,UD Almeria,33,1,0,Solo run,Left foot,Won
+ 8 - 3 - 2015,Liga,FC Barcelona,Rayo Vallecano,Rayo Vallecano,68,5,0,,Left foot,Won
+ 8 - 3 - 2015,Liga,FC Barcelona,Rayo Vallecano,Rayo Vallecano,63,4,0,Rebound,Left foot,Won
+ 8 - 3 - 2015,Liga,FC Barcelona,Rayo Vallecano,Rayo Vallecano,56,3,0,Penalty,Left foot,Won
+ 15 - 2 - 2015,Liga,FC Barcelona,Levante,Levante,65,4,0,Penalty,Left foot,Won
+ 22 - 11 - 2014,Liga,FC Barcelona,Sevilla,Sevilla,21,1,0,Free kick,Left foot,Won
+ 18 - 10 - 2014,Liga,FC Barcelona,Eibar,Eibar,74,3,0,,Left foot,Won
+ 24 - 8 - 2014,Liga,FC Barcelona,Elche,Elche,63,3,0,,Left foot,Won
+ 24 - 8 - 2014,Liga,FC Barcelona,Elche,Elche,42,1,0,,Left foot,Won
+ 3 - 5 - 2014,Liga,FC Barcelona,Getafe,Getafe,23,1,0,,Left foot,Draw
+ 5 - 4 - 2014,Liga,FC Barcelona,Real Betis,Real Betis,15,1,0,Penalty,Left foot,Won
+ 16 - 3 - 2014,Liga,FC Barcelona,Osasuna,Osasuna,63,4,0,,Left foot,Won
+ 16 - 3 - 2014,Liga,FC Barcelona,Osasuna,Osasuna,18,1,0,,Left foot,Won
+ 2 - 3 - 2014,Liga,FC Barcelona,UD Almeria,UD Almeria,24,2,0,Free kick,Left foot,Won
+ 15 - 2 - 2014,Liga,FC Barcelona,Rayo Vallecano,Rayo Vallecano,68,5,0,,Left foot,Won
+ 15 - 2 - 2014,Liga,FC Barcelona,Rayo Vallecano,Rayo Vallecano,36,2,0,,Left foot,Won
+ 14 - 9 - 2013,Liga,FC Barcelona,Sevilla,Sevilla,75,2,0,,Left foot,Won
+ 18 - 8 - 2013,Liga,FC Barcelona,Levante,Levante,42,5,0,Penalty,Left foot,Won
+ 18 - 8 - 2013,Liga,FC Barcelona,Levante,Levante,12,2,0,,Left foot,Won
+ 17 - 3 - 2013,Liga,FC Barcelona,Rayo Vallecano,Rayo Vallecano,57,3,0,,Left foot,Won
+ 17 - 3 - 2013,Liga,FC Barcelona,Rayo Vallecano,Rayo Vallecano,40,2,0,,Left foot,Won
+ 9 - 3 - 2013,Liga,FC Barcelona,Deportivo La Coruna,Deportivo La Coruna,88,2,0,,Left foot,Won
+ 10 - 2 - 2013,Liga,FC Barcelona,Getafe,Getafe,13,2,0,,Left foot,Won
+ 6 - 1 - 2013,Liga,FC Barcelona,Espanyol,Espanyol,29,4,0,Penalty,Left foot,Won
+ 1 - 12 - 2012,Liga,FC Barcelona,Athletic de Bilbao,Athletic de Bilbao,25,2,0,,Left foot,Won
+ 17 - 11 - 2012,Liga,FC Barcelona,Real Zaragoza,Real Zaragoza,16,1,0,,Left foot,Won
+ 5 - 5 - 2012,Liga,FC Barcelona,Espanyol,Espanyol,79,4,0,Penalty,Left foot,Won
+ 5 - 5 - 2012,Liga,FC Barcelona,Espanyol,Espanyol,74,3,0,,Left foot,Won
+ 5 - 5 - 2012,Liga,FC Barcelona,Espanyol,Espanyol,64,2,0,Penalty,Left foot,Won
+ 5 - 5 - 2012,Liga,FC Barcelona,Espanyol,Espanyol,12,1,0,Free kick,Left foot,Won
+ 10 - 4 - 2012,Liga,FC Barcelona,Getafe,Getafe,44,2,0,,Left foot,Won
+ 31 - 3 - 2012,Liga,FC Barcelona,Athletic de Bilbao,Athletic de Bilbao,58,2,0,Penalty,Left foot,Won
+ 20 - 3 - 2012,Liga,FC Barcelona,Granada,Granada,17,2,0,Field goal,Left foot,Won
+ 4 - 2 - 2012,Liga,FC Barcelona,Real Sociedad,Real Sociedad,72,2,0,,Left foot,Won
+ 15 - 1 - 2012,Liga,FC Barcelona,Real Betis,Real Betis,12,2,0,,Left foot,Won
+ 3 - 12 - 2011,Liga,FC Barcelona,Levante,Levante,55,4,0,,Left foot,Won
+ 29 - 11 - 2011,Liga,FC Barcelona,Rayo Vallecano,Rayo Vallecano,50,4,0,,Left foot,Won
+ 29 - 10 - 2011,Liga,FC Barcelona,Real Mallorca,Real Mallorca,30,3,0,,Left foot,Won
+ 29 - 10 - 2011,Liga,FC Barcelona,Real Mallorca,Real Mallorca,13,1,0,Penalty,Left foot,Won
+ 24 - 9 - 2011,Liga,FC Barcelona,Atletico Madrid,Atletico Madrid,90+1,5,0,,Left foot,Won
+ 24 - 9 - 2011,Liga,FC Barcelona,Atletico Madrid,Atletico Madrid,78,4,0,,Left foot,Won
+ 24 - 9 - 2011,Liga,FC Barcelona,Atletico Madrid,Atletico Madrid,26,3,0,,Left foot,Won
+ 17 - 9 - 2011,Liga,FC Barcelona,Osasuna,Osasuna,79,8,0,,Left foot,Won
+ 17 - 9 - 2011,Liga,FC Barcelona,Osasuna,Osasuna,41,5,0,,Left foot,Won
+ 17 - 9 - 2011,Liga,FC Barcelona,Osasuna,Osasuna,5,1,0,,Left foot,Won
+ 29 - 8 - 2011,Liga,FC Barcelona,Villarreal,Villarreal,75,5,0,,Left foot,Won
+ 5 - 2 - 2011,Liga,FC Barcelona,Atletico Madrid,Atletico Madrid,79,3,0,Rebound,Left foot,Won
+ 5 - 2 - 2011,Liga,FC Barcelona,Atletico Madrid,Atletico Madrid,28,2,0,,Left foot,Won
+ 5 - 2 - 2011,Liga,FC Barcelona,Atletico Madrid,Atletico Madrid,17,1,0,,Left foot,Won
+ 22 - 1 - 2011,Liga,FC Barcelona,Racing Santander,Racing Santander,33,2,0,Penalty,Left foot,Won
+ 12 - 12 - 2010,Liga,FC Barcelona,Real Sociedad,Real Sociedad,87,4,0,Solo run,Left foot,Won
+ 12 - 12 - 2010,Liga,FC Barcelona,Real Sociedad,Real Sociedad,47,3,0,,Left foot,Won
+ 30 - 10 - 2010,Liga,FC Barcelona,Sevilla,Sevilla,64,4,0,Solo run,Left foot,Won
+ 30 - 10 - 2010,Liga,FC Barcelona,Sevilla,Sevilla,4,1,0,Rebound,Left foot,Won
+ 3 - 10 - 2010,Liga,FC Barcelona,Real Mallorca,Real Mallorca,21,1,0,,Left foot,Draw
+ 16 - 5 - 2010,Liga,FC Barcelona,Real Valladolid,Real Valladolid,76,4,0,,Left foot,Won
+ 3 - 4 - 2010,Liga,FC Barcelona,Athletic de Bilbao,Athletic de Bilbao,67,4,0,,Left foot,Won
+ 14 - 3 - 2010,Liga,FC Barcelona,Valencia,Valencia,81,2,0,,Left foot,Won
+ 14 - 3 - 2010,Liga,FC Barcelona,Valencia,Valencia,56,1,0,,Left foot,Won
+ 6 - 2 - 2010,Liga,FC Barcelona,Getafe,Getafe,7,1,0,,Left foot,Won
+ 16 - 1 - 2010,Liga,FC Barcelona,Sevilla,Sevilla,90+1,4,0,,Left foot,Won
+ 16 - 1 - 2010,Liga,FC Barcelona,Sevilla,Sevilla,85,3,0,,Left foot,Won
+ 19 - 9 - 2009,Liga,FC Barcelona,Atletico Madrid,Atletico Madrid,16,2,0,,Left foot,Won
+ 7 - 3 - 2009,Liga,FC Barcelona,Athletic de Bilbao,Athletic de Bilbao,32,2,0,Penalty,Left foot,Won
+ 24 - 1 - 2009,Liga,FC Barcelona,Numancia,Numancia,49,1,0,,Left foot,Won
+ 17 - 1 - 2009,Liga,FC Barcelona,Deportivo La Coruna,Deportivo La Coruna,21,1,0,,Left foot,Won
+ 13 - 12 - 2008,Liga,FC Barcelona,Real Madrid,Real Madrid,90+1,2,0,,Left foot,Won
+ 4 - 10 - 2008,Liga,FC Barcelona,Atletico Madrid,Atletico Madrid,9,3,0,Free kick,Left foot,Won
+ 13 - 9 - 2008,Liga,FC Barcelona,Racing Santander,Racing Santander,71,1,0,Penalty,Left foot,Draw
+ 4 - 5 - 2008,Liga,FC Barcelona,Valencia,Valencia,6,1,0,Penalty,Left foot,Won
+ 24 - 11 - 2007,Liga,FC Barcelona,Recreativo Huelva,Recreativo Huelva,82,3,0,Penalty,Left foot,Won
+ 28 - 10 - 2007,Liga,FC Barcelona,UD Almeria,UD Almeria,81,2,0,Penalty,Left foot,Won
+ 7 - 10 - 2007,Liga,FC Barcelona,Atletico Madrid,Atletico Madrid,19,2,0,,Left foot,Won
+ 26 - 9 - 2007,Liga,FC Barcelona,Real Zaragoza,Real Zaragoza,5,1,0,,Left foot,Won
+ 22 - 9 - 2007,Liga,FC Barcelona,Sevilla,Sevilla,80,2,0,Penalty,Left foot,Won
+ 22 - 9 - 2007,Liga,FC Barcelona,Sevilla,Sevilla,74,1,0,,Left foot,Won
+ 31 - 3 - 2007,Liga,FC Barcelona,Deportivo La Coruna,Deportivo La Coruna,45,1,0,,Left foot,Won
+ 9 - 9 - 2006,Liga,FC Barcelona,Osasuna,Osasuna,37,3,0,,Left foot,Won
+ 22 - 1 - 2006,Liga,FC Barcelona,Alaves ,Alaves ,81,2,0,Rebound,Left foot,Won
+ 27 - 11 - 2005,Liga,FC Barcelona,Racing Santander,Racing Santander,52,2,0,,Left foot,Won
+ 1 - 5 - 2005,Liga,FC Barcelona,Albacete,Albacete,90,2,0,,Left foot,Won
+ 9 - 3 - 2019,Liga,FC Barcelona,Rayo Vallecano,Rayo Vallecano,51,2,1,Penalty,Left foot,Won
+ 2 - 2 - 2019,Liga,FC Barcelona,Valencia,Valencia,64,2,2,Field goal,Left foot,Draw
+ 2 - 2 - 2019,Liga,FC Barcelona,Valencia,Valencia,39,1,2,Penalty,Left foot,Draw
+ 11 - 11 - 2018,Liga,FC Barcelona,Real Betis,Real Betis,90+2,3,4,Field goal,Left foot,Lost
+ 11 - 11 - 2018,Liga,FC Barcelona,Real Betis,Real Betis,68,1,2,Penalty,Left foot,Lost
+ 2 - 9 - 2018,Liga,FC Barcelona,Huesca,Huesca,61,6,2,Field goal,Left foot,Won
+ 6 - 5 - 2018,Liga,FC Barcelona,Real Madrid,Real Madrid,52,2,1,Field goal,Left foot,Draw
+ 7 - 4 - 2018,Liga,FC Barcelona,Leganes,Leganes,87,3,1,Field goal,Left foot,Won
+ 24 - 2 - 2018,Liga,FC Barcelona,Girona,Girona,36,3,1,Free kick,Left foot,Won
+ 24 - 2 - 2018,Liga,FC Barcelona,Girona,Girona,30,2,1,Field goal,Left foot,Won
+ 28 - 1 - 2018,Liga,FC Barcelona,Alaves ,Alaves ,84,2,1,Free kick,Left foot,Won
+ 2 - 12 - 2017,Liga,FC Barcelona,Celta de Vigo,Celta de Vigo,22,1,1,Field goal,Left foot,Draw
+ 19 - 9 - 2017,Liga,FC Barcelona,Eibar,Eibar,87,6,1,Field goal,Left foot,Won
+ 19 - 9 - 2017,Liga,FC Barcelona,Eibar,Eibar,62,5,1,Field goal,Left foot,Won
+ 19 - 9 - 2017,Liga,FC Barcelona,Eibar,Eibar,59,4,1,Field goal,Left foot,Won
+ 21 - 5 - 2017,Liga,FC Barcelona,Eibar,Eibar,76,3,2,Penalty,Left foot,Won
+ 6 - 5 - 2017,Liga,FC Barcelona,Villarreal,Villarreal,82,4,1,Penalty,Left foot,Won
+ 6 - 5 - 2017,Liga,FC Barcelona,Villarreal,Villarreal,45,2,1,Field goal,Left foot,Won
+ 26 - 4 - 2017,Liga,FC Barcelona,Osasuna,Osasuna,61,4,1,Field goal,Left foot,Won
+ 19 - 3 - 2017,Liga,FC Barcelona,Valencia,Valencia,45,2,1,Penalty,Left foot,Won
+ 19 - 2 - 2017,Liga,FC Barcelona,Leganes,Leganes,89,2,1,Penalty,Left foot,Won
+ 18 - 12 - 2016,Liga,FC Barcelona,Espanyol,Espanyol,90,4,1,Field goal,Left foot,Won
+ 20 - 8 - 2016,Liga,FC Barcelona,Real Betis,Real Betis,57,5,1,Field goal,Left foot,Won
+ 20 - 8 - 2016,Liga,FC Barcelona,Real Betis,Real Betis,37,2,1,Field goal,Left foot,Won
+ 28 - 2 - 2016,Liga,FC Barcelona,Sevilla,Sevilla,31,1,1,Free kick,Left foot,Won
+ 30 - 1 - 2016,Liga,FC Barcelona,Atletico Madrid,Atletico Madrid,30,1,1,Field goal,Left foot,Won
+ 20 - 9 - 2015,Liga,FC Barcelona,Levante,Levante,90,4,1,Solo run,Left foot,Won
+ 11 - 1 - 2015,Liga,FC Barcelona,Atletico Madrid,Atletico Madrid,87,3,1,,Left foot,Won
+ 7 - 12 - 2014,Liga,FC Barcelona,Espanyol,Espanyol,45,1,1,,Left foot,Won
+ 22 - 11 - 2014,Liga,FC Barcelona,Sevilla,Sevilla,78,5,1,,Left foot,Won
+ 20 - 4 - 2014,Liga,FC Barcelona,Athletic de Bilbao,Athletic de Bilbao,74,2,1,Free kick,Left foot,Won
+ 1 - 2 - 2014,Liga,FC Barcelona,Valencia,Valencia,54,2,2,Penalty,Left foot,Lost
+ 5 - 5 - 2013,Liga,FC Barcelona,Real Betis,Real Betis,71,4,2,,Left foot,Won
+ 5 - 5 - 2013,Liga,FC Barcelona,Real Betis,Real Betis,60,3,2,Free kick,Left foot,Won
+ 23 - 2 - 2013,Liga,FC Barcelona,Sevilla,Sevilla,60,2,1,,Left foot,Won
+ 27 - 1 - 2013,Liga,FC Barcelona,Osasuna,Osasuna,58,5,1,,Left foot,Won
+ 27 - 1 - 2013,Liga,FC Barcelona,Osasuna,Osasuna,56,4,1,,Left foot,Won
+ 27 - 1 - 2013,Liga,FC Barcelona,Osasuna,Osasuna,28,2,1,Penalty,Left foot,Won
+ 16 - 12 - 2012,Liga,FC Barcelona,Atletico Madrid,Atletico Madrid,88,4,1,,Left foot,Won
+ 16 - 12 - 2012,Liga,FC Barcelona,Atletico Madrid,Atletico Madrid,57,3,1,,Left foot,Won
+ 17 - 11 - 2012,Liga,FC Barcelona,Real Zaragoza,Real Zaragoza,60,3,1,,Left foot,Won
+ 7 - 10 - 2012,Liga,FC Barcelona,Real Madrid,Real Madrid,61,2,1,Free kick,Left foot,Draw
+ 7 - 10 - 2012,Liga,FC Barcelona,Real Madrid,Real Madrid,31,1,1,,Left foot,Draw
+ 19 - 8 - 2012,Liga,FC Barcelona,Real Sociedad,Real Sociedad,16,3,1,,Left foot,Won
+ 19 - 8 - 2012,Liga,FC Barcelona,Real Sociedad,Real Sociedad,11,2,1,,Left foot,Won
+ 2 - 5 - 2012,Liga,FC Barcelona,Malaga,Malaga,64,4,1,,Left foot,Won
+ 2 - 5 - 2012,Liga,FC Barcelona,Malaga,Malaga,59,3,1,Penalty,Left foot,Won
+ 2 - 5 - 2012,Liga,FC Barcelona,Malaga,Malaga,35,2,1,Penalty,Left foot,Won
+ 20 - 3 - 2012,Liga,FC Barcelona,Granada,Granada,86,5,2,Field goal,Left foot,Won
+ 20 - 3 - 2012,Liga,FC Barcelona,Granada,Granada,67,3,2,Field goal,Left foot,Won
+ 19 - 2 - 2012,Liga,FC Barcelona,Valencia,Valencia,85,4,1,,Left foot,Won
+ 19 - 2 - 2012,Liga,FC Barcelona,Valencia,Valencia,76,3,1,Rebound,Left foot,Won
+ 19 - 2 - 2012,Liga,FC Barcelona,Valencia,Valencia,27,2,1,Rebound,Left foot,Won
+ 19 - 2 - 2012,Liga,FC Barcelona,Valencia,Valencia,22,1,1,,Left foot,Won
+ 15 - 1 - 2012,Liga,FC Barcelona,Real Betis,Real Betis,86,4,2,Penalty,Left foot,Won
+ 9 - 4 - 2011,Liga,FC Barcelona,UD Almeria,UD Almeria,90+2,3,1,,Left foot,Won
+ 9 - 4 - 2011,Liga,FC Barcelona,UD Almeria,UD Almeria,53,1,1,Penalty,Left foot,Won
+ 13 - 11 - 2010,Liga,FC Barcelona,Villarreal,Villarreal,83,3,1,,Left foot,Won
+ 7 - 11 - 2009,Liga,FC Barcelona,Real Mallorca,Real Mallorca,87,4,1,Penalty,Left foot,Won
+ 25 - 10 - 2009,Liga,FC Barcelona,Real Zaragoza,Real Zaragoza,80,5,1,Field goal,Left foot,Won
+ 24 - 2 - 2008,Liga,FC Barcelona,Levante,Levante,44,2,1,,Left foot,Won
+ 26 - 9 - 2007,Liga,FC Barcelona,Real Zaragoza,Real Zaragoza,11,2,1,,Left foot,Won
+ 10 - 3 - 2007,Liga,FC Barcelona,Real Madrid,Real Madrid,90,3,3,,Left foot,Draw
+ 10 - 3 - 2007,Liga,FC Barcelona,Real Madrid,Real Madrid,28,2,2,Rebound,Left foot,Draw
+ 10 - 3 - 2007,Liga,FC Barcelona,Real Madrid,Real Madrid,11,1,1,,Left foot,Draw
+ 18 - 2 - 2006,Liga,FC Barcelona,Real Betis,Real Betis,85,5,1,Rebound,Left foot,Won
+ 15 - 1 - 2006,Liga,FC Barcelona,Athletic de Bilbao,Athletic de Bilbao,51,2,1,Rebound,Left foot,Won
+ 20 - 1 - 2019,Liga,FC Barcelona,Leganes,Leganes,90+2,3,1,Field goal,Right foot,Won
+ 2 - 9 - 2018,Liga,FC Barcelona,Huesca,Huesca,16,1,1,Field goal,Right foot,Won
+ 9 - 9 - 2017,Liga,FC Barcelona,Espanyol,Espanyol,35,2,0,Field goal,Right foot,Won
+ 21 - 5 - 2017,Liga,FC Barcelona,Eibar,Eibar,90+2,4,2,Solo run,Right foot,Won
+ 5 - 4 - 2017,Liga,FC Barcelona,Sevilla,Sevilla,28,2,0,Field goal,Right foot,Won
+ 19 - 3 - 2017,Liga,FC Barcelona,Valencia,Valencia,53,3,2,Field goal,Right foot,Won
+ 1 - 3 - 2017,Liga,FC Barcelona,Sporting Gijon,Sporting Gijon,9,1,0,Field goal,Head,Won
+ 19 - 2 - 2017,Liga,FC Barcelona,Leganes,Leganes,4,1,0,Field goal,Right foot,Won
+ 14 - 1 - 2017,Liga,FC Barcelona,Las Palmas,Las Palmas,52,2,0,Rebound,Right foot,Won
+ 23 - 4 - 2016,Liga,FC Barcelona,Sporting Gijon,Sporting Gijon,12,1,0,Rebound,Head,Won
+ 17 - 4 - 2016,Liga,FC Barcelona,Valencia,Valencia,63,1,2,Field goal,Right foot,Lost
+ 30 - 12 - 2015,Liga,FC Barcelona,Real Betis,Real Betis,33,2,0,Field goal,Right foot,Won
+ 23 - 5 - 2015,Liga,FC Barcelona,Deportivo La Coruna,Deportivo La Coruna,59,2,0,,Right foot,Draw
+ 23 - 5 - 2015,Liga,FC Barcelona,Deportivo La Coruna,Deportivo La Coruna,5,1,0,,Head,Draw
+ 15 - 2 - 2015,Liga,FC Barcelona,Levante,Levante,59,3,0,,Right foot,Won
+ 15 - 2 - 2015,Liga,FC Barcelona,Levante,Levante,38,2,0,,Right foot,Won
+ 1 - 2 - 2015,Liga,FC Barcelona,Villarreal,Villarreal,55,3,2,,Right foot,Won
+ 20 - 12 - 2014,Liga,FC Barcelona,Cordoba,Cordoba,90+1,5,0,,Right foot,Won
+ 20 - 12 - 2014,Liga,FC Barcelona,Cordoba,Cordoba,82,4,0,,Right foot,Won
+ 7 - 12 - 2014,Liga,FC Barcelona,Espanyol,Espanyol,81,5,1,,Right foot,Won
+ 7 - 12 - 2014,Liga,FC Barcelona,Espanyol,Espanyol,50,2,1,,Right foot,Won
+ 22 - 11 - 2014,Liga,FC Barcelona,Sevilla,Sevilla,72,4,1,,Right foot,Won
+ 27 - 9 - 2014,Liga,FC Barcelona,Granada,Granada,82,6,0,,Right foot,Won
+ 27 - 9 - 2014,Liga,FC Barcelona,Granada,Granada,62,4,0,,Head,Won
+ 5 - 4 - 2014,Liga,FC Barcelona,Real Betis,Real Betis,86,3,1,Rebound,Right foot,Won
+ 26 - 3 - 2014,Liga,FC Barcelona,Celta de Vigo,Celta de Vigo,30,2,0,,Right foot,Won
+ 16 - 3 - 2014,Liga,FC Barcelona,Osasuna,Osasuna,88,6,0,,Right foot,Won
+ 24 - 9 - 2013,Liga,FC Barcelona,Real Sociedad,Real Sociedad,8,2,0,,Head,Won
+ 27 - 1 - 2013,Liga,FC Barcelona,Osasuna,Osasuna,11,1,0,,Right foot,Won
+ 1 - 12 - 2012,Liga,FC Barcelona,Athletic de Bilbao,Athletic de Bilbao,70,5,1,,Right foot,Won
+ 19 - 11 - 2011,Liga,FC Barcelona,Real Zaragoza,Real Zaragoza,43,2,0,,Right foot,Won
+ 29 - 10 - 2011,Liga,FC Barcelona,Real Mallorca,Real Mallorca,21,2,0,,Right foot,Won
+ 15 - 10 - 2011,Liga,FC Barcelona,Racing Santander,Racing Santander,68,3,0,,Right foot,Won
+ 15 - 10 - 2011,Liga,FC Barcelona,Racing Santander,Racing Santander,11,1,0,,Right foot,Won
+ 29 - 8 - 2011,Liga,FC Barcelona,Villarreal,Villarreal,52,4,0,,Right foot,Won
+ 23 - 4 - 2011,Liga,FC Barcelona,Osasuna,Osasuna,87,2,0,,Right foot,Won
+ 20 - 2 - 2011,Liga,FC Barcelona,Athletic de Bilbao,Athletic de Bilbao,78,2,1,,Right foot,Won
+ 13 - 11 - 2010,Liga,FC Barcelona,Villarreal,Villarreal,58,2,1,,Right foot,Won
+ 16 - 5 - 2010,Liga,FC Barcelona,Real Valladolid,Real Valladolid,62,3,0,,Right foot,Won
+ 4 - 5 - 2010,Liga,FC Barcelona,Tenerife,Tenerife,90+3,4,1,,Right foot,Won
+ 4 - 5 - 2010,Liga,FC Barcelona,Tenerife,Tenerife,17,1,0,,Right foot,Won
+ 14 - 3 - 2010,Liga,FC Barcelona,Valencia,Valencia,83,3,0,,Right foot,Won
+ 27 - 2 - 2010,Liga,FC Barcelona,Malaga,Malaga,84,2,1,Field goal,Right foot,Won
+ 19 - 9 - 2009,Liga,FC Barcelona,Atletico Madrid,Atletico Madrid,90+4,5,2,,Right foot,Won
+ 22 - 3 - 2009,Liga,FC Barcelona,Malaga,Malaga,25,2,0,,Right foot,Won
+ 24 - 1 - 2009,Liga,FC Barcelona,Numancia,Numancia,76,4,1,Rebound,Right foot,Won
+ 9 - 6 - 2007,Liga,FC Barcelona,Espanyol,Espanyol,57,2,1,,Right foot,Draw
+ 9 - 6 - 2007,Liga,FC Barcelona,Espanyol,Espanyol,43,1,1,,Hand,Draw
+ 15 - 10 - 2006,Liga,FC Barcelona,Sevilla,Sevilla,81,3,1,,Right foot,Won
+ 18 - 9 - 2018,Champions League,FC Barcelona,PSV Eindhoven,PSV Eindhoven,87,4,0,Field goal,Right foot,Won
+ 14 - 3 - 2018,Champions League,FC Barcelona,Chelsea,Chelsea,3,1,0,Field goal,Right foot,Won
+ 17 - 8 - 2016,,FC Barcelona,Sevilla,Sevilla,55,3,0,Field goal,Head,Won
+ 6 - 5 - 2015,Champions League,FC Barcelona,Bayern Munchen,Bayern Munchen,80,2,0,,Right foot,Won
+ 10 - 12 - 2014,Champions League,FC Barcelona,Paris Saint-Ger- 5 -n,Paris Saint-Ger- 5 -n,19,1,1,,Right foot,Won
+ 19 - 9 - 2012,Champions League,FC Barcelona,Spartak Moscow,Spartak Moscow,80,3,2,,Head,Won
+ 7 - 3 - 2012,Champions League,FC Barcelona,Bayer Leverkusen,Bayer Leverkusen,49,3,0,,Right foot,Won
+ 4 - 1 - 2012,,FC Barcelona,Osasuna,Osasuna,73,3,0,,Head,Won
+ 17 - 8 - 2011,,FC Barcelona,Real Madrid,Real Madrid,45,2,1,Field goal,Right foot,Won
+ 21 - 8 - 2010,,FC Barcelona,Sevilla,Sevilla,43,3,0,,Right foot,Won
+ 6 - 4 - 2010,Champions League,FC Barcelona,Arsenal,Arsenal,37,2,1,,Right foot,Won
+ 23 - 8 - 2009,,FC Barcelona,Athletic de Bilbao,Athletic de Bilbao,50,1,0,,Right foot,Won
+ 27 - 5 - 2009,Champions League,FC Barcelona,Manchester United,Manchester United,70,2,0,,Head,Won
+ 8 - 4 - 2009,Champions League,FC Barcelona,Bayern Munchen,Bayern Munchen,38,3,0,,Right foot,Won
+ 18 - 4 - 2007,,FC Barcelona,Getafe,Getafe,29,2,0,Solo run,Right foot,Won
+ 1 - 2 - 2006,,FC Barcelona,Real Zaragoza,Real Zaragoza,42,1,0,Field goal,Head,Won
+ 30 - 1 - 2019,,FC Barcelona,Sevilla,Sevilla,90+2,6,1,Field goal,Left foot,Won
+ 17 - 1 - 2019,,FC Barcelona,Levante,Levante,54,3,0,Field goal,Left foot,Won
+ 18 - 9 - 2018,Champions League,FC Barcelona,PSV Eindhoven,PSV Eindhoven,77,3,0,Field goal,Left foot,Won
+ 18 - 9 - 2018,Champions League,FC Barcelona,PSV Eindhoven,PSV Eindhoven,32,1,0,Free kick,Left foot,Won
+ 14 - 3 - 2018,Champions League,FC Barcelona,Chelsea,Chelsea,63,3,0,Field goal,Left foot,Won
+ 25 - 1 - 2018,,FC Barcelona,Espanyol,Espanyol,25,2,0,Field goal,Left foot,Won
+ 11 - 1 - 2018,,FC Barcelona,Celta de Vigo,Celta de Vigo,15,2,0,Field goal,Left foot,Won
+ 11 - 1 - 2018,,FC Barcelona,Celta de Vigo,Celta de Vigo,13,1,0,Field goal,Left foot,Won
+ 18 - 10 - 2017,Champions League,FC Barcelona,Olympiacos,Olympiacos,61,2,0,Free kick,Left foot,Won
+ 12 - 9 - 2017,Champions League,FC Barcelona,Juventus,Juventus,69,3,0,Field goal,Left foot,Won
+ 12 - 9 - 2017,Champions League,FC Barcelona,Juventus,Juventus,45,1,0,Field goal,Left foot,Won
+ 13 - 8 - 2017,,FC Barcelona,Real Madrid,Real Madrid,76,1,1,Penalty,Left foot,Lost
+ 27 - 5 - 2017,,FC Barcelona,Alaves ,Alaves ,30,1,0,Field goal,Left foot,Won
+ 8 - 3 - 2017,Champions League,FC Barcelona,Paris Saint-Ger- 5 -n,Paris Saint-Ger- 5 -n,50,3,0,Penalty,Left foot,Won
+ 26 - 1 - 2017,,FC Barcelona,Real Sociedad,Real Sociedad,55,2,0,Penalty,Left foot,Won
+ 11 - 1 - 2017,,FC Barcelona,Athletic de Bilbao,Athletic de Bilbao,78,3,1,Free kick,Left foot,Won
+ 6 - 12 - 2016,Champions League,FC Barcelona,Borussia Munchengladbach,Borussia Munchengladbach,16,1,0,Field goal,Left foot,Won
+ 19 - 10 - 2016,Champions League,FC Barcelona,Manchester City,Manchester City,69,3,0,Field goal,Left foot,Won
+ 19 - 10 - 2016,Champions League,FC Barcelona,Manchester City,Manchester City,61,2,0,Field goal,Left foot,Won
+ 19 - 10 - 2016,Champions League,FC Barcelona,Manchester City,Manchester City,17,1,0,Field goal,Left foot,Won
+ 13 - 9 - 2016,Champions League,FC Barcelona,Celtic,Celtic,60,5,0,Field goal,Left foot,Won
+ 13 - 9 - 2016,Champions League,FC Barcelona,Celtic,Celtic,27,2,0,Field goal,Left foot,Won
+ 13 - 9 - 2016,Champions League,FC Barcelona,Celtic,Celtic,3,1,0,Field goal,Left foot,Won
+ 16 - 3 - 2016,Champions League,FC Barcelona,Arsenal,Arsenal,88,3,1,Field goal,Left foot,Won
+ 3 - 2 - 2016,,FC Barcelona,Valencia,Valencia,74,5,0,Field goal,Left foot,Won
+ 3 - 2 - 2016,,FC Barcelona,Valencia,Valencia,58,4,0,Field goal,Left foot,Won
+ 3 - 2 - 2016,,FC Barcelona,Valencia,Valencia,29,3,0,Field goal,Left foot,Won
+ 6 - 1 - 2016,,FC Barcelona,Espanyol,Espanyol,44,2,1,Free kick,Left foot,Won
+ 6 - 1 - 2016,,FC Barcelona,Espanyol,Espanyol,13,1,1,Field goal,Left foot,Won
+ 24 - 11 - 2015,Champions League,FC Barcelona,AS Roma,AS Roma,59,5,0,Rebound,Left foot,Won
+ 24 - 11 - 2015,Champions League,FC Barcelona,AS Roma,AS Roma,18,2,0,Field goal,Left foot,Won
+ 17 - 8 - 2015,,FC Barcelona,Athletic de Bilbao,Athletic de Bilbao,43,1,0,Field goal,Left foot,Draw
+ 11 - 8 - 2015,,FC Barcelona,Sevilla,Sevilla,15,2,1,Free kick,Left foot,Won
+ 11 - 8 - 2015,,FC Barcelona,Sevilla,Sevilla,7,1,1,Free kick,Left foot,Won
+ 6 - 5 - 2015,Champions League,FC Barcelona,Bayern Munchen,Bayern Munchen,77,1,0,,Left foot,Won
+ 11 - 2 - 2015,,FC Barcelona,Villarreal,Villarreal,41,1,0,,Left foot,Won
+ 21 - 1 - 2015,,FC Barcelona,Atletico Madrid,Atletico Madrid,85,1,0,Rebound,Left foot,Won
+ 8 - 1 - 2015,,FC Barcelona,Elche,Elche,45,3,0,Penalty,Left foot,Won
+ 21 - 10 - 2014,Champions League,FC Barcelona,Ajax,Ajax,24,2,0,,Left foot,Won
+ 12 - 3 - 2014,Champions League,FC Barcelona,Manchester City,Manchester City,67,1,0,,Left foot,Won
+ 8 - 1 - 2014,,FC Barcelona,Getafe,Getafe,90+3,4,0,,Left foot,Won
+ 8 - 1 - 2014,,FC Barcelona,Getafe,Getafe,90,3,0,,Left foot,Won
+ 6 - 11 - 2013,Champions League,FC Barcelona,AC Milan,AC Milan,83,3,1,,Left foot,Won
+ 6 - 11 - 2013,Champions League,FC Barcelona,AC Milan,AC Milan,30,1,0,Penalty,Left foot,Won
+ 18 - 9 - 2013,Champions League,FC Barcelona,Ajax,Ajax,75,4,0,,Left foot,Won
+ 18 - 9 - 2013,Champions League,FC Barcelona,Ajax,Ajax,55,2,0,,Left foot,Won
+ 18 - 9 - 2013,Champions League,FC Barcelona,Ajax,Ajax,22,1,0,Free kick,Left foot,Won
+ 12 - 3 - 2013,Champions League,FC Barcelona,AC Milan,AC Milan,39,2,0,,Left foot,Won
+ 12 - 3 - 2013,Champions League,FC Barcelona,AC Milan,AC Milan,5,1,0,,Left foot,Won
+ 16 - 1 - 2013,,FC Barcelona,Malaga,Malaga,29,1,1,,Left foot,Draw
+ 19 - 9 - 2012,Champions League,FC Barcelona,Spartak Moscow,Spartak Moscow,71,2,2,,Left foot,Won
+ 23 - 8 - 2012,,FC Barcelona,Real Madrid,Real Madrid,70,2,1,Penalty,Left foot,Won
+ 3 - 4 - 2012,Champions League,FC Barcelona,AC Milan,AC Milan,41,2,1,Penalty,Left foot,Won
+ 3 - 4 - 2012,Champions League,FC Barcelona,AC Milan,AC Milan,11,1,0,Penalty,Left foot,Won
+ 7 - 3 - 2012,Champions League,FC Barcelona,Bayer Leverkusen,Bayer Leverkusen,84,7,0,,Left foot,Won
+ 7 - 3 - 2012,Champions League,FC Barcelona,Bayer Leverkusen,Bayer Leverkusen,58,5,0,Rebound,Left foot,Won
+ 7 - 3 - 2012,Champions League,FC Barcelona,Bayer Leverkusen,Bayer Leverkusen,42,2,0,,Left foot,Won
+ 7 - 3 - 2012,Champions League,FC Barcelona,Bayer Leverkusen,Bayer Leverkusen,25,1,0,,Left foot,Won
+ 4 - 1 - 2012,,FC Barcelona,Osasuna,Osasuna,90+2,4,0,,Left foot,Won
+ 26 - 8 - 2011,,FC Barcelona,FC Porto,FC Porto,39,1,0,,Left foot,Won
+ 17 - 8 - 2011,,FC Barcelona,Real Madrid,Real Madrid,87,3,2,Field goal,Left foot,Won
+ 28 - 5 - 2011,Champions League,FC Barcelona,Manchester United,Manchester United,54,2,1,,Left foot,Won
+ 8 - 3 - 2011,Champions League,FC Barcelona,Arsenal,Arsenal,71,3,1,Penalty,Left foot,Won
+ 8 - 3 - 2011,Champions League,FC Barcelona,Arsenal,Arsenal,45+3,1,0,Field goal,Left foot,Won
+ 26 - 1 - 2011,,FC Barcelona,UD Almeria,UD Almeria,16,3,0,,Left foot,Won
+ 26 - 1 - 2011,,FC Barcelona,UD Almeria,UD Almeria,9,1,0,,Left foot,Won
+ 12 - 1 - 2011,,FC Barcelona,Real Betis,Real Betis,73,3,0,,Left foot,Won
+ 12 - 1 - 2011,,FC Barcelona,Real Betis,Real Betis,62,2,0,Rebound,Left foot,Won
+ 12 - 1 - 2011,,FC Barcelona,Real Betis,Real Betis,44,1,0,,Left foot,Won
+ 10 - 11 - 2010,,FC Barcelona,AD Ceuta,AD Ceuta,68,5,1,,Left foot,Won
+ 20 - 10 - 2010,Champions League,FC Barcelona,FC Copenhagen,FC Copenhagen,90+2,2,0,,Left foot,Won
+ 20 - 10 - 2010,Champions League,FC Barcelona,FC Copenhagen,FC Copenhagen,19,1,0,,Left foot,Won
+ 14 - 9 - 2010,Champions League,FC Barcelona,Panathinaikos,Panathinaikos,45,3,1,,Left foot,Won
+ 14 - 9 - 2010,Champions League,FC Barcelona,Panathinaikos,Panathinaikos,22,1,1,,Left foot,Won
+ 21 - 8 - 2010,,FC Barcelona,Sevilla,Sevilla,90,4,0,,Left foot,Won
+ 21 - 8 - 2010,,FC Barcelona,Sevilla,Sevilla,24,2,0,,Left foot,Won
+ 6 - 4 - 2010,Champions League,FC Barcelona,Arsenal,Arsenal,88,4,1,Rebound,Left foot,Won
+ 6 - 4 - 2010,Champions League,FC Barcelona,Arsenal,Arsenal,42,3,1,,Left foot,Won
+ 6 - 4 - 2010,Champions League,FC Barcelona,Arsenal,Arsenal,21,1,1,,Left foot,Won
+ 17 - 3 - 2010,Champions League,FC Barcelona,VfB Stuttgart,VfB Stuttgart,60,3,0,,Left foot,Won
+ 17 - 3 - 2010,Champions League,FC Barcelona,VfB Stuttgart,VfB Stuttgart,13,1,0,Solo run,Left foot,Won
+ 10 - 11 - 2009,,FC Barcelona,Cultural Leonesa,Cultural Leonesa,64,4,0,,Left foot,Won
+ 29 - 9 - 2009,Champions League,FC Barcelona,Dynamo Kyiv,Dynamo Kyiv,26,1,0,,Left foot,Won
+ 23 - 8 - 2009,,FC Barcelona,Athletic de Bilbao,Athletic de Bilbao,68,2,0,Penalty,Left foot,Won
+ 8 - 4 - 2009,Champions League,FC Barcelona,Bayern Munchen,Bayern Munchen,9,1,0,,Left foot,Won
+ 11 - 3 - 2009,Champions League,FC Barcelona,Olympique Lyon,Olympique Lyon,40,3,0,,Left foot,Won
+ 12 - 11 - 2008,,FC Barcelona,Benidorm,Benidorm,87,1,0,Rebound,Left foot,Won
+ 4 - 11 - 2008,Champions League,FC Barcelona,FC Basel,FC Basel,62,1,0,,Left foot,Draw
+ 7 - 11 - 2007,Champions League,FC Barcelona,Glasgow Rangers,Glasgow Rangers,43,2,0,Rebound,Left foot,Won
+ 19 - 9 - 2007,Champions League,FC Barcelona,Olympique Lyon,Olympique Lyon,83,2,0,,Left foot,Won
+ 18 - 4 - 2007,,FC Barcelona,Getafe,Getafe,45,3,0,,Left foot,Won
+ 2 - 11 - 2005,Champions League,FC Barcelona,Panathinaikos,Panathinaikos,34,3,0,,Left foot,Won
+ 26 - 6 - 2018,World Cup,Nigeria,Nigeria,Argentina,14,0,1,Field goal,Right foot,Won
+ 29 - 5 - 2018,,Argentina,Haiti,Haiti,66,3,0,Field goal,Left foot,Won
+ 29 - 5 - 2018,,Argentina,Haiti,Haiti,58,2,0,Rebound,Right foot,Won
+ 29 - 5 - 2018,,Argentina,Haiti,Haiti,17,1,0,Penalty,Left foot,Won
+ 10 - 10 - 2017,,Ecuador,Ecuador,Argentina,63,1,3,Field goal,Left foot,Won
+ 10 - 10 - 2017,,Ecuador,Ecuador,Argentina,20,1,2,Field goal,Left foot,Won
+ 10 - 10 - 2017,,Ecuador,Ecuador,Argentina,12,1,1,Field goal,Left foot,Won
+ 23 - 3 - 2017,,Argentina,Chile,Chile,16,1,0,Penalty,Left foot,Won
+ 15 - 11 - 2016,,Argentina,Colombia,Colombia,10,1,0,Free kick,Left foot,Won
+ 1 - 9 - 2016,,Argentina,Uruguay,Uruguay,43,1,0,Field goal,Left foot,Won
+ 21 - 6 - 2016,Copa America,United States,United States,Argentina,32,0,2,Free kick,Left foot,Won
+ 18 - 6 - 2016,Copa America,Argentina,Venezuela,Venezuela,60,3,0,Field goal,Left foot,Won
+ 10 - 6 - 2016,Copa America,Argentina,Panama,Panama,87,4,0,Field goal,Left foot,Won
+ 10 - 6 - 2016,Copa America,Argentina,Panama,Panama,78,3,0,Free kick,Left foot,Won
+ 10 - 6 - 2016,Copa America,Argentina,Panama,Panama,68,2,0,Field goal,Left foot,Won
+ 29 - 3 - 2016,,Argentina,Bolivia,Bolivia,30,2,0,Penalty,Left foot,Won
+ 8 - 9 - 2015,,Argentina,Mexico,Mexico,88,2,2,Field goal,Left foot,Draw
+ 4 - 9 - 2015,,Argentina,Bolivia,Bolivia,74,6,0,Field goal,Left foot,Won
+ 4 - 9 - 2015,,Argentina,Bolivia,Bolivia,66,5,0,Field goal,Head,Won
+ 13 - 6 - 2015,Copa America,Argentina,Paraguay,Paraguay,35,2,0,Penalty,Left foot,Draw
+ 12 - 11 - 2014,,Argentina,Croatia,Croatia,57,2,1,Penalty,Left foot,Won
+ 14 - 10 - 2014,,Hong Kong,Hong Kong,Argentina,84,0,7,Solo run,Left foot,Won
+ 14 - 10 - 2014,,Hong Kong,Hong Kong,Argentina,66,0,5,,Left foot,Won
+ 25 - 6 - 2014,World Cup,Nigeria,Nigeria,Argentina,45+1,1,2,Free kick,Left foot,Won
+ 25 - 6 - 2014,World Cup,Nigeria,Nigeria,Argentina,3,0,1,Rebound,Left foot,Won
+ 21 - 6 - 2014,World Cup,Argentina,Iran,Iran,90+1,1,0,,Left foot,Won
+ 16 - 6 - 2014,World Cup,Argentina,Bosnia-Herzegovina,Bosnia-Herzegovina,65,2,0,Solo run,Left foot,Won
+ 7 - 6 - 2014,,Argentina,Slovenia,Slovenia,75,2,0,Field goal,Left foot,Won
+ 11 - 9 - 2013,,Paraguay,Paraguay,Argentina,52,1,4,Penalty,Left foot,Won
+ 11 - 9 - 2013,,Paraguay,Paraguay,Argentina,12,0,1,Penalty,Left foot,Won
+ 15 - 6 - 2013,,Guatemala,Guatemala,Argentina,49,0,4,Field goal,Left foot,Won
+ 15 - 6 - 2013,,Guatemala,Guatemala,Argentina,40,0,3,Penalty,Left foot,Won
+ 15 - 6 - 2013,,Guatemala,Guatemala,Argentina,15,0,1,Field goal,Left foot,Won
+ 23 - 3 - 2013,,Argentina,Venezuela,Venezuela,44,2,0,Penalty,Left foot,Won
+ 17 - 10 - 2012,,Chile,Chile,Argentina,28,0,1,,Left foot,Won
+ 13 - 10 - 2012,,Argentina,Uruguay,Uruguay,80,3,0,Free kick,Left foot,Won
+ 13 - 10 - 2012,,Argentina,Uruguay,Uruguay,65,1,0,,Right foot,Won
+ 8 - 9 - 2012,,Argentina,Paraguay,Paraguay,63,3,1,Free kick,Left foot,Won
+ 15 - 8 - 2012,,Germany,Germany,Argentina,52,0,2,,Left foot,Won
+ 9 - 6 - 2012,,Argentina,Brazil,Brazil,85,4,3,Solo run,Left foot,Won
+ 9 - 6 - 2012,,Argentina,Brazil,Brazil,35,2,1,,Left foot,Won
+ 9 - 6 - 2012,,Argentina,Brazil,Brazil,31,1,1,,Left foot,Won
+ 3 - 6 - 2012,,Argentina,Ecuador,Ecuador,31,3,0,Field goal,Left foot,Won
+ 29 - 2 - 2012,,Switzerland,Switzerland,Argentina,90+3,1,3,Penalty,Left foot,Won
+ 29 - 2 - 2012,,Switzerland,Switzerland,Argentina,88,1,2,,Left foot,Won
+ 29 - 2 - 2012,,Switzerland,Switzerland,Argentina,20,0,1,,Left foot,Won
+ 15 - 11 - 2011,,Colombia,Colombia,Argentina,60,1,1,Rebound,Left foot,Won
+ 8 - 10 - 2011,,Argentina,Chile,Chile,26,2,0,Field goal,Left foot,Won
+ 20 - 6 - 2011,,Argentina,Albania,Albania,42,2,0,Field goal,Left foot,Won
+ 9 - 2 - 2011,,Argentina,Portugal,Portugal,90,2,1,Penalty,Left foot,Won
+ 17 - 11 - 2010,,Argentina,Brazil,Brazil,90+2,1,0,Solo run,Left foot,Won
+ 7 - 9 - 2010,,Argentina,Spain,Spain,10,1,0,Field goal,Left foot,Won
+ 14 - 11 - 2009,,Spain,Spain,Argentina,61,1,1,Penalty,Left foot,Lost
+ 28 - 3 - 2009,,Argentina,Venezuela,Venezuela,26,1,0,,Left foot,Won
+ 11 - 2 - 2009,,France,France,Argentina,83,0,2,Solo run,Left foot,Won
+ 11 - 10 - 2008,,Argentina,Uruguay,Uruguay,6,1,0,,Head,Won
+ 5 - 6 - 2008,,Mexico,Mexico,Argentina,18,0,2,,Left foot,Won
+ 21 - 11 - 2007,,Colombia,Colombia,Argentina,36,0,1,Solo run,Left foot,Lost
+ 17 - 10 - 2007,,Venezuela,Venezuela,Argentina,43,0,2,,Left foot,Won
+ 12 - 7 - 2007,Copa America,Mexico,Mexico,Argentina,61,0,2,,Left foot,Won
+ 9 - 7 - 2007,Copa America,Argentina,Peru,Peru,61,2,0,,Left foot,Won
+ 5 - 6 - 2007,,Argentina,Algeria,Algeria,73,4,2,,Left foot,Won
+ 5 - 6 - 2007,,Argentina,Algeria,Algeria,54,2,2,Penalty,Left foot,Won
+ 16 - 6 - 2006,World Cup,Argentina,Serbia and Montenegro,Serbia and Montenegro,88,6,0,,Right foot,Won
+ 1 - 3 - 2006,,Croatia,Croatia,Argentina,6,1,2,,Left foot,Lost
+ 28 - 11 - 2018,Champions League,PSV Eindhoven,PSV Eindhoven,FC Barcelona,61,0,1,Field goal,Left foot,Won
+ 3 - 10 - 2018,Champions League,Tottenham Hotspur F.C.,Tottenham Hotspur F.C.,FC Barcelona,90,2,4,Field goal,Left foot,Won
+ 3 - 10 - 2018,Champions League,Tottenham Hotspur F.C.,Tottenham Hotspur F.C.,FC Barcelona,56,1,3,Field goal,Left foot,Won
+ 21 - 4 - 2018,,Sevilla,Sevilla,FC Barcelona,31,0,2,Field goal,Left foot,Won
+ 20 - 2 - 2018,Champions League,Chelsea,Chelsea,FC Barcelona,75,1,1,Field goal,Left foot,Draw
+ 1 - 2 - 2017,,Atletico Madrid,Atletico Madrid,FC Barcelona,33,0,2,Field goal,Left foot,Won
+ 5 - 1 - 2017,,Athletic de Bilbao,Athletic de Bilbao,FC Barcelona,52,2,1,Free kick,Left foot,Lost
+ 23 - 11 - 2016,Champions League,Celtic,Celtic,FC Barcelona,55,0,2,Penalty,Left foot,Won
+ 23 - 11 - 2016,Champions League,Celtic,Celtic,FC Barcelona,24,0,1,Field goal,Left foot,Won
+ 1 - 11 - 2016,Champions League,Manchester City,Manchester City,FC Barcelona,21,0,1,Field goal,Left foot,Lost
+ 23 - 2 - 2016,Champions League,Arsenal,Arsenal,FC Barcelona,83,0,2,Penalty,Left foot,Won
+ 23 - 2 - 2016,Champions League,Arsenal,Arsenal,FC Barcelona,71,0,1,Field goal,Left foot,Won
+ 20 - 12 - 2015,,CA River Plate,CA River Plate,FC Barcelona,36,0,1,Field goal,Left foot,Won
+ 9 - 12 - 2015,Champions League,Bayer Leverkusen,Bayer Leverkusen,FC Barcelona,20,0,1,Field goal,Right foot,Draw
+ 30 - 5 - 2015,,Athletic de Bilbao,Athletic de Bilbao,FC Barcelona,74,0,3,,Left foot,Won
+ 30 - 5 - 2015,,Athletic de Bilbao,Athletic de Bilbao,FC Barcelona,20,0,1,Solo run,Left foot,Won
+ 25 - 11 - 2014,Champions League,APOEL FC,APOEL FC,FC Barcelona,87,0,4,,Right foot,Won
+ 25 - 11 - 2014,Champions League,APOEL FC,APOEL FC,FC Barcelona,58,0,3,,Right foot,Won
+ 25 - 11 - 2014,Champions League,APOEL FC,APOEL FC,FC Barcelona,38,0,2,,Right foot,Won
+ 5 - 11 - 2014,Champions League,Ajax,Ajax,FC Barcelona,76,0,2,,Left foot,Won
+ 5 - 11 - 2014,Champions League,Ajax,Ajax,FC Barcelona,36,0,1,,Head,Won
+ 30 - 9 - 2014,Champions League,Paris Saint-Ger- 5 -n,Paris Saint-Ger- 5 -n,FC Barcelona,11,1,1,,Left foot,Lost
+ 18 - 2 - 2014,Champions League,Manchester City,Manchester City,FC Barcelona,54,0,1,Penalty,Left foot,Won
+ 12 - 2 - 2014,,Real Sociedad,Real Sociedad,FC Barcelona,27,0,1,Solo run,Left foot,Draw
+ 16 - 1 - 2014,,Getafe,Getafe,FC Barcelona,63,0,2,Field goal,Left foot,Won
+ 16 - 1 - 2014,,Getafe,Getafe,FC Barcelona,44,0,1,Field goal,Hip,Won
+ 22 - 10 - 2013,Champions League,AC Milan,AC Milan,FC Barcelona,23,1,1,,Left foot,Draw
+ 2 - 4 - 2013,Champions League,Paris Saint-Ger- 5 -n,Paris Saint-Ger- 5 -n,FC Barcelona,38,0,1,,Left foot,Draw
+ 24 - 1 - 2013,,Malaga,Malaga,FC Barcelona,80,2,4,,Head,Won
+ 12 - 12 - 2012,,Cordoba,Cordoba,FC Barcelona,74,0,2,,Left foot,Won
+ 12 - 12 - 2012,,Cordoba,Cordoba,FC Barcelona,11,0,1,,Left foot,Won
+ 20 - 11 - 2012,Champions League,Spartak Moscow,Spartak Moscow,FC Barcelona,39,0,3,,Left foot,Won
+ 20 - 11 - 2012,Champions League,Spartak Moscow,Spartak Moscow,FC Barcelona,27,0,2,Rebound,Right foot,Won
+ 7 - 11 - 2012,Champions League,Celtic,Celtic,FC Barcelona,90+1,2,1,Rebound,Left foot,Lost
+ 29 - 8 - 2012,,Real Madrid,Real Madrid,FC Barcelona,45,2,1,Free kick,Left foot,Lost
+ 25 - 5 - 2012,,Athletic de Bilbao,Athletic de Bilbao,FC Barcelona,20,0,2,,Right foot,Won
+ 14 - 2 - 2012,Champions League,Bayer Leverkusen,Bayer Leverkusen,FC Barcelona,88,1,3,Field goal,Left foot,Won
+ 18 - 12 - 2011,,Santos,Santos,FC Barcelona,82,0,4,,Left foot,Won
+ 18 - 12 - 2011,,Santos,Santos,FC Barcelona,17,0,1,,Left foot,Won
+ 23 - 11 - 2011,Champions League,AC Milan,AC Milan,FC Barcelona,31,1,2,Penalty,Left foot,Won
+ 1 - 11 - 2011,Champions League,Viktoria Plzen,Viktoria Plzen,FC Barcelona,90+2,0,4,,Left foot,Won
+ 1 - 11 - 2011,Champions League,Viktoria Plzen,Viktoria Plzen,FC Barcelona,45,0,2,,Left foot,Won
+ 1 - 11 - 2011,Champions League,Viktoria Plzen,Viktoria Plzen,FC Barcelona,24,0,1,Penalty,Left foot,Won
+ 28 - 9 - 2011,Champions League,BATE Borisov,BATE Borisov,FC Barcelona,55,0,4,,Left foot,Won
+ 28 - 9 - 2011,Champions League,BATE Borisov,BATE Borisov,FC Barcelona,38,0,3,,Head,Won
+ 14 - 8 - 2011,,Real Madrid,Real Madrid,FC Barcelona,45,1,2,,Left foot,Draw
+ 27 - 4 - 2011,Champions League,Real Madrid,Real Madrid,FC Barcelona,87,0,2,Solo run,Right foot,Won
+ 27 - 4 - 2011,Champions League,Real Madrid,Real Madrid,FC Barcelona,76,0,1,Field goal,Left foot,Won
+ 12 - 4 - 2011,Champions League,Shakhtar Donetsk,Shakhtar Donetsk,FC Barcelona,43,0,1,,Left foot,Won
+ 19 - 1 - 2011,,Real Betis,Real Betis,FC Barcelona,38,2,1,,Left foot,Lost
+ 24 - 11 - 2010,Champions League,Panathinaikos,Panathinaikos,FC Barcelona,62,0,2,,Left foot,Won
+ 2 - 11 - 2010,Champions League,FC Copenhagen,FC Copenhagen,FC Barcelona,31,0,1,,Right foot,Draw
+ 19 - 12 - 2009,,Estudiantes La Plata,Estudiantes La Plata,FC Barcelona,110,1,2,,Chest,Won
+ 16 - 12 - 2009,,Atlante,Atlante,FC Barcelona,55,1,2,,Left foot,Won
+ 9 - 12 - 2009,Champions League,Dynamo Kyiv,Dynamo Kyiv,FC Barcelona,86,1,2,Free kick,Left foot,Won
+ 13 - 5 - 2009,,Athletic de Bilbao,Athletic de Bilbao,FC Barcelona,55,1,2,,Left foot,Won
+ 4 - 3 - 2009,,Real Mallorca,Real Mallorca,FC Barcelona,81,1,1,,Left foot,Draw
+ 6 - 1 - 2009,,Atletico Madrid,Atletico Madrid,FC Barcelona,80,1,3,,Right foot,Won
+ 6 - 1 - 2009,,Atletico Madrid,Atletico Madrid,FC Barcelona,57,0,2,Penalty,Left foot,Won
+ 6 - 1 - 2009,,Atletico Madrid,Atletico Madrid,FC Barcelona,13,0,1,,Left foot,Won
+ 26 - 11 - 2008,Champions League,Sporting Lisbon,Sporting Lisbon,FC Barcelona,49,0,3,,Left foot,Won
+ 22 - 10 - 2008,Champions League,FC Basel,FC Basel,FC Barcelona,4,0,1,,Left foot,Won
+ 1 - 10 - 2008,Champions League,Shakhtar Donetsk,Shakhtar Donetsk,FC Barcelona,90+4,1,2,,Left foot,Won
+ 1 - 10 - 2008,Champions League,Shakhtar Donetsk,Shakhtar Donetsk,FC Barcelona,87,1,1,Rebound,Right foot,Won
+ 20 - 2 - 2008,Champions League,Celtic,Celtic,FC Barcelona,79,2,3,,Left foot,Won
+ 20 - 2 - 2008,Champions League,Celtic,Celtic,FC Barcelona,18,1,1,,Left foot,Won
+ 27 - 11 - 2007,Champions League,Olympique Lyon,Olympique Lyon,FC Barcelona,58,1,2,Penalty,Left foot,Draw
+ 2 - 10 - 2007,Champions League,VfB Stuttgart,VfB Stuttgart,FC Barcelona,67,0,2,,Right foot,Won
+ 27 - 9 - 2006,Champions League,Werder Bremen,Werder Bremen,FC Barcelona,89,1,1,,Left foot,Draw
+ 23 - 2 - 2019,Liga,Sevilla,Sevilla,FC Barcelona,85,2,3,Field goal,Left foot,Won
+ 23 - 2 - 2019,Liga,Sevilla,Sevilla,FC Barcelona,67,2,2,Field goal,Right foot,Won
+ 23 - 2 - 2019,Liga,Sevilla,Sevilla,FC Barcelona,26,1,1,Field goal,Left foot,Won
+ 7 - 10 - 2018,Liga,Valencia,Valencia,FC Barcelona,23,1,1,Field goal,Left foot,Draw
+ 29 - 4 - 2018,Liga,Deportivo La Coruna,Deportivo La Coruna,FC Barcelona,85,2,4,Field goal,Left foot,Won
+ 29 - 4 - 2018,Liga,Deportivo La Coruna,Deportivo La Coruna,FC Barcelona,82,2,3,Field goal,Right foot,Won
+ 31 - 3 - 2018,Liga,Sevilla,Sevilla,FC Barcelona,89,2,2,Field goal,Left foot,Draw
+ 14 - 1 - 2018,Liga,Real Sociedad,Real Sociedad,FC Barcelona,85,2,4,Free kick,Left foot,Won
+ 23 - 4 - 2017,Liga,Real Madrid,Real Madrid,FC Barcelona,90+2,2,3,Field goal,Left foot,Won
+ 23 - 4 - 2017,Liga,Real Madrid,Real Madrid,FC Barcelona,33,1,1,Field goal,Left foot,Won
+ 26 - 2 - 2017,Liga,Atletico Madrid,Atletico Madrid,FC Barcelona,87,1,2,Rebound,Left foot,Won
+ 8 - 1 - 2017,Liga,Villarreal,Villarreal,FC Barcelona,90,1,1,Free kick,Left foot,Draw
+ 27 - 11 - 2016,Liga,Real Sociedad,Real Sociedad,FC Barcelona,59,1,1,Field goal,Left foot,Draw
+ 6 - 11 - 2016,Liga,Sevilla,Sevilla,FC Barcelona,43,1,1,Field goal,Left foot,Won
+ 22 - 10 - 2016,Liga,Valencia,Valencia,FC Barcelona,90+4,2,3,Penalty,Left foot,Won
+ 3 - 3 - 2016,Liga,Rayo Vallecano,Rayo Vallecano,FC Barcelona,72,1,4,Field goal,Left foot,Won
+ 17 - 2 - 2016,Liga,Sporting Gijon,Sporting Gijon,FC Barcelona,31,1,2,Field goal,Left foot,Won
+ 23 - 1 - 2016,Liga,Malaga,Malaga,FC Barcelona,51,1,2,Field goal,Left foot,Won
+ 12 - 9 - 2015,Liga,Atletico Madrid,Atletico Madrid,FC Barcelona,77,1,2,Field goal,Left foot,Won
+ 28 - 2 - 2015,Liga,Granada,Granada,FC Barcelona,70,1,3,,Right foot,Won
+ 27 - 4 - 2014,Liga,Villarreal,Villarreal,FC Barcelona,83,2,3,,Right foot,Won
+ 23 - 3 - 2014,Liga,Real Madrid,Real Madrid,FC Barcelona,84,3,4,Penalty,Left foot,Won
+ 23 - 3 - 2014,Liga,Real Madrid,Real Madrid,FC Barcelona,65,3,3,Penalty,Left foot,Won
+ 23 - 3 - 2014,Liga,Real Madrid,Real Madrid,FC Barcelona,42,2,2,,Left foot,Won
+ 22 - 2 - 2014,Liga,Real Sociedad,Real Sociedad,FC Barcelona,36,1,1,,Left foot,Lost
+ 9 - 2 - 2014,Liga,Sevilla,Sevilla,FC Barcelona,56,1,3,,Left foot,Won
+ 9 - 2 - 2014,Liga,Sevilla,Sevilla,FC Barcelona,44,1,2,,Left foot,Won
+ 27 - 4 - 2013,Liga,Athletic de Bilbao,Athletic de Bilbao,FC Barcelona,67,1,1,Solo run,Left foot,Draw
+ 30 - 3 - 2013,Liga,Celta de Vigo,Celta de Vigo,FC Barcelona,73,1,2,,Left foot,Draw
+ 2 - 3 - 2013,Liga,Real Madrid,Real Madrid,FC Barcelona,18,1,1,,Left foot,Lost
+ 16 - 2 - 2013,Liga,Granada,Granada,FC Barcelona,73,1,2,Free kick,Left foot,Won
+ 16 - 2 - 2013,Liga,Granada,Granada,FC Barcelona,50,1,1,Rebound,Right foot,Won
+ 3 - 2 - 2013,Liga,Valencia,Valencia,FC Barcelona,39,1,1,Penalty,Left foot,Draw
+ 11 - 11 - 2012,Liga,Real Mallorca,Real Mallorca,FC Barcelona,70,2,4,,Left foot,Won
+ 20 - 10 - 2012,Liga,Deportivo La Coruna,Deportivo La Coruna,FC Barcelona,77,3,5,,Left foot,Won
+ 20 - 10 - 2012,Liga,Deportivo La Coruna,Deportivo La Coruna,FC Barcelona,43,2,4,,Right foot,Won
+ 26 - 8 - 2012,Liga,Osasuna,Osasuna,FC Barcelona,80,1,2,,Left foot,Won
+ 26 - 8 - 2012,Liga,Osasuna,Osasuna,FC Barcelona,76,1,1,,Left foot,Won
+ 14 - 4 - 2012,Liga,Levante,Levante,FC Barcelona,72,1,2,Penalty,Left foot,Won
+ 14 - 4 - 2012,Liga,Levante,Levante,FC Barcelona,64,1,1,Field goal,Left foot,Won
+ 7 - 4 - 2012,Liga,Real Zaragoza,Real Zaragoza,FC Barcelona,86,1,3,Penalty,Left foot,Won
+ 7 - 4 - 2012,Liga,Real Zaragoza,Real Zaragoza,FC Barcelona,39,1,2,,Left foot,Won
+ 26 - 2 - 2012,Liga,Atletico Madrid,Atletico Madrid,FC Barcelona,81,1,2,Free kick,Left foot,Won
+ 6 - 11 - 2011,Liga,Athletic de Bilbao,Athletic de Bilbao,FC Barcelona,90+1,2,2,Rebound,Left foot,Draw
+ 1 - 5 - 2010,Liga,Villarreal,Villarreal,FC Barcelona,88,1,4,,Left foot,Won
+ 6 - 3 - 2010,Liga,UD Almeria,UD Almeria,FC Barcelona,66,2,2,,Left foot,Draw
+ 6 - 3 - 2010,Liga,UD Almeria,UD Almeria,FC Barcelona,42,1,1,Free kick,Left foot,Draw
+ 5 - 12 - 2009,Liga,Deportivo La Coruna,Deportivo La Coruna,FC Barcelona,80,1,2,,Head,Won
+ 2 - 5 - 2009,Liga,Real Madrid,Real Madrid,FC Barcelona,75,2,5,,Left foot,Won
+ 2 - 5 - 2009,Liga,Real Madrid,Real Madrid,FC Barcelona,36,1,3,,Left foot,Won
+ 1 - 2 - 2009,Liga,Racing Santander,Racing Santander,FC Barcelona,81,1,2,,Right foot,Won
+ 1 - 2 - 2009,Liga,Racing Santander,Racing Santander,FC Barcelona,65,1,1,Rebound,Right foot,Won
+ 11 - 1 - 2009,Liga,Osasuna,Osasuna,FC Barcelona,85,2,3,,Left foot,Won
+ 1 - 11 - 2008,Liga,Malaga,Malaga,FC Barcelona,19,1,2,,Left foot,Won
+ 27 - 9 - 2008,Liga,Espanyol,Espanyol,FC Barcelona,90+7,1,2,Penalty,Left foot,Won
+ 21 - 9 - 2008,Liga,Sporting Gijon,Sporting Gijon,FC Barcelona,89,1,6,Field goal,Head,Won
+ 21 - 9 - 2008,Liga,Sporting Gijon,Sporting Gijon,FC Barcelona,85,1,5,Field goal,Left foot,Won
+ 28 - 8 - 2006,Liga,Celta de Vigo,Celta de Vigo,FC Barcelona,60,1,2,,Left foot,Won
+ 16 - 12 - 2018,Liga,Levante,Levante,FC Barcelona,43,0,2,Field goal,Right foot,Won
+ 2 - 5 - 2015,Liga,Cordoba,Cordoba,FC Barcelona,46,0,3,,Head,Won
+ 14 - 3 - 2015,Liga,Eibar,Eibar,FC Barcelona,55,0,2,,Head,Won
+ 18 - 1 - 2015,Liga,Deportivo La Coruna,Deportivo La Coruna,FC Barcelona,10,0,1,,Head,Won
+ 21 - 9 - 2014,Liga,Levante,Levante,FC Barcelona,77,0,5,,Right foot,Won
+ 1 - 9 - 2013,Liga,Valencia,Valencia,FC Barcelona,39,0,2,,Right foot,Won
+ 13 - 1 - 2013,Liga,Malaga,Malaga,FC Barcelona,27,0,1,,Right foot,Won
+ 27 - 10 - 2012,Liga,Rayo Vallecano,Rayo Vallecano,FC Barcelona,89,0,5,,Right foot,Won
+ 22 - 1 - 2012,Liga,Malaga,Malaga,FC Barcelona,33,0,1,,Head,Won
+ 26 - 2 - 2011,Liga,Real Mallorca,Real Mallorca,FC Barcelona,38,0,1,,Head,Won
+ 29 - 8 - 2010,Liga,Racing Santander,Racing Santander,FC Barcelona,3,0,1,,Right foot,Won
+ 10 - 4 - 2010,Liga,Real Madrid,Real Madrid,FC Barcelona,33,0,1,,Right foot,Won
+ 21 - 3 - 2010,Liga,Real Zaragoza,Real Zaragoza,FC Barcelona,5,0,1,,Head,Won
+ 10 - 1 - 2010,Liga,Tenerife,Tenerife,FC Barcelona,45,0,3,,Right foot,Won
+ 12 - 9 - 2009,Liga,Getafe,Getafe,FC Barcelona,80,0,2,,Head,Won
+ 29 - 1 - 2006,Liga,Real Mallorca,Real Mallorca,FC Barcelona,75,0,2,,Right foot,Won
+ 27 - 1 - 2019,Liga,Girona,Girona,FC Barcelona,68,0,2,Field goal,Left foot,Won
+ 6 - 1 - 2019,Liga,Getafe,Getafe,FC Barcelona,20,0,1,Field goal,Left foot,Won
+ 16 - 12 - 2018,Liga,Levante,Levante,FC Barcelona,60,0,4,Field goal,Left foot,Won
+ 16 - 12 - 2018,Liga,Levante,Levante,FC Barcelona,47,0,3,Field goal,Left foot,Won
+ 8 - 12 - 2018,Liga,Espanyol,Espanyol,FC Barcelona,65,0,4,Free kick,Left foot,Won
+ 8 - 12 - 2018,Liga,Espanyol,Espanyol,FC Barcelona,18,0,1,Free kick,Left foot,Won
+ 29 - 4 - 2018,Liga,Deportivo La Coruna,Deportivo La Coruna,FC Barcelona,38,0,2,Field goal,Left foot,Won
+ 1 - 3 - 2018,Liga,Las Palmas,Las Palmas,FC Barcelona,21,0,1,Free kick,Left foot,Draw
+ 21 - 1 - 2018,Liga,Real Betis,Real Betis,FC Barcelona,80,0,4,Solo run,Left foot,Won
+ 21 - 1 - 2018,Liga,Real Betis,Real Betis,FC Barcelona,64,0,2,Field goal,Left foot,Won
+ 23 - 12 - 2017,Liga,Real Madrid,Real Madrid,FC Barcelona,64,0,2,Penalty,Left foot,Won
+ 10 - 12 - 2017,Liga,Villarreal,Villarreal,FC Barcelona,83,0,2,Field goal,Left foot,Won
+ 28 - 10 - 2017,Liga,Athletic de Bilbao,Athletic de Bilbao,FC Barcelona,36,0,1,Field goal,Left foot,Won
+ 26 - 8 - 2017,Liga,Alaves ,Alaves ,FC Barcelona,66,0,2,Field goal,Left foot,Won
+ 26 - 8 - 2017,Liga,Alaves ,Alaves ,FC Barcelona,55,0,1,Field goal,Left foot,Won
+ 11 - 2 - 2017,Liga,Alaves ,Alaves ,FC Barcelona,59,0,3,Field goal,Left foot,Won
+ 22 - 1 - 2017,Liga,Eibar,Eibar,FC Barcelona,50,0,2,Field goal,Left foot,Won
+ 10 - 12 - 2016,Liga,Osasuna,Osasuna,FC Barcelona,90+2,0,3,Solo run,Left foot,Won
+ 10 - 12 - 2016,Liga,Osasuna,Osasuna,FC Barcelona,72,0,2,Field goal,Left foot,Won
+ 22 - 10 - 2016,Liga,Valencia,Valencia,FC Barcelona,22,0,1,Field goal,Left foot,Won
+ 17 - 9 - 2016,Liga,Leganes,Leganes,FC Barcelona,55,0,4,Penalty,Left foot,Won
+ 17 - 9 - 2016,Liga,Leganes,Leganes,FC Barcelona,15,0,1,Field goal,Left foot,Won
+ 20 - 4 - 2016,Liga,Deportivo La Coruna,Deportivo La Coruna,FC Barcelona,73,0,6,Field goal,Left foot,Won
+ 6 - 3 - 2016,Liga,Eibar,Eibar,FC Barcelona,76,0,3,Penalty,Left foot,Won
+ 6 - 3 - 2016,Liga,Eibar,Eibar,FC Barcelona,41,0,2,Field goal,Left foot,Won
+ 3 - 3 - 2016,Liga,Rayo Vallecano,Rayo Vallecano,FC Barcelona,54,0,3,Rebound,Left foot,Won
+ 3 - 3 - 2016,Liga,Rayo Vallecano,Rayo Vallecano,FC Barcelona,23,0,2,Field goal,Left foot,Won
+ 17 - 2 - 2016,Liga,Sporting Gijon,Sporting Gijon,FC Barcelona,25,0,1,Field goal,Left foot,Won
+ 17 - 5 - 2015,Liga,Atletico Madrid,Atletico Madrid,FC Barcelona,65,0,1,,Left foot,Won
+ 2 - 5 - 2015,Liga,Cordoba,Cordoba,FC Barcelona,80,0,6,Rebound,Left foot,Won
+ 25 - 4 - 2015,Liga,Espanyol,Espanyol,FC Barcelona,25,0,2,,Left foot,Won
+ 11 - 4 - 2015,Liga,Sevilla,Sevilla,FC Barcelona,14,0,1,,Left foot,Draw
+ 14 - 3 - 2015,Liga,Eibar,Eibar,FC Barcelona,31,0,1,Penalty,Left foot,Won
+ 8 - 2 - 2015,Liga,Athletic de Bilbao,Athletic de Bilbao,FC Barcelona,15,0,1,Free kick,Left foot,Won
+ 24 - 1 - 2015,Liga,Elche,Elche,FC Barcelona,88,0,5,,Left foot,Won
+ 24 - 1 - 2015,Liga,Elche,Elche,FC Barcelona,55,0,2,Penalty,Left foot,Won
+ 18 - 1 - 2015,Liga,Deportivo La Coruna,Deportivo La Coruna,FC Barcelona,62,0,3,,Left foot,Won
+ 18 - 1 - 2015,Liga,Deportivo La Coruna,Deportivo La Coruna,FC Barcelona,33,0,2,,Left foot,Won
+ 4 - 10 - 2014,Liga,Rayo Vallecano,Rayo Vallecano,FC Barcelona,35,0,1,,Left foot,Won
+ 29 - 3 - 2014,Liga,Espanyol,Espanyol,FC Barcelona,77,0,1,Penalty,Left foot,Won
+ 28 - 9 - 2013,Liga,UD Almeria,UD Almeria,FC Barcelona,21,0,1,,Left foot,Won
+ 1 - 9 - 2013,Liga,Valencia,Valencia,FC Barcelona,41,0,3,,Left foot,Won
+ 1 - 9 - 2013,Liga,Valencia,Valencia,FC Barcelona,11,0,1,,Left foot,Won
+ 19 - 1 - 2013,Liga,Real Sociedad,Real Sociedad,FC Barcelona,7,0,1,,Left foot,Lost
+ 22 - 12 - 2012,Liga,Real Valladolid,Real Valladolid,FC Barcelona,59,0,2,,Left foot,Won
+ 9 - 12 - 2012,Liga,Real Betis,Real Betis,FC Barcelona,25,0,2,,Left foot,Won
+ 9 - 12 - 2012,Liga,Real Betis,Real Betis,FC Barcelona,16,0,1,,Left foot,Won
+ 25 - 11 - 2012,Liga,Levante,Levante,FC Barcelona,52,0,2,,Left foot,Won
+ 25 - 11 - 2012,Liga,Levante,Levante,FC Barcelona,47,0,1,,Left foot,Won
+ 11 - 11 - 2012,Liga,Real Mallorca,Real Mallorca,FC Barcelona,44,0,2,,Left foot,Won
+ 27 - 10 - 2012,Liga,Rayo Vallecano,Rayo Vallecano,FC Barcelona,48,0,2,,Left foot,Won
+ 20 - 10 - 2012,Liga,Deportivo La Coruna,Deportivo La Coruna,FC Barcelona,18,0,3,,Left foot,Won
+ 15 - 9 - 2012,Liga,Getafe,Getafe,FC Barcelona,78,0,3,,Left foot,Won
+ 15 - 9 - 2012,Liga,Getafe,Getafe,FC Barcelona,74,0,2,Penalty,Left foot,Won
+ 29 - 4 - 2012,Liga,Rayo Vallecano,Rayo Vallecano,FC Barcelona,90,0,7,,Left foot,Won
+ 29 - 4 - 2012,Liga,Rayo Vallecano,Rayo Vallecano,FC Barcelona,16,0,1,,Left foot,Won
+ 24 - 3 - 2012,Liga,Real Mallorca,Real Mallorca,FC Barcelona,25,0,1,Free kick,Left foot,Won
+ 17 - 3 - 2012,Liga,Sevilla,Sevilla,FC Barcelona,25,0,2,,Left foot,Won
+ 11 - 3 - 2012,Liga,Racing Santander,Racing Santander,FC Barcelona,56,0,2,Penalty,Left foot,Won
+ 11 - 3 - 2012,Liga,Racing Santander,Racing Santander,FC Barcelona,29,0,1,,Left foot,Won
+ 22 - 1 - 2012,Liga,Malaga,Malaga,FC Barcelona,81,0,4,,Left foot,Won
+ 22 - 1 - 2012,Liga,Malaga,Malaga,FC Barcelona,51,0,3,,Left foot,Won
+ 16 - 4 - 2011,Liga,Real Madrid,Real Madrid,FC Barcelona,53,0,1,Penalty,Left foot,Draw
+ 2 - 3 - 2011,Liga,Valencia,Valencia,FC Barcelona,77,0,1,,Left foot,Won
+ 29 - 1 - 2011,Liga,Hercules Alicante,Hercules Alicante,FC Barcelona,89,0,3,,Left foot,Won
+ 29 - 1 - 2011,Liga,Hercules Alicante,Hercules Alicante,FC Barcelona,87,0,2,,Left foot,Won
+ 8 - 1 - 2011,Liga,Deportivo La Coruna,Deportivo La Coruna,FC Barcelona,52,0,2,Free kick,Left foot,Won
+ 4 - 12 - 2010,Liga,Osasuna,Osasuna,FC Barcelona,83,0,3,Penalty,Left foot,Won
+ 4 - 12 - 2010,Liga,Osasuna,Osasuna,FC Barcelona,65,0,2,,Left foot,Won
+ 20 - 11 - 2010,Liga,UD Almeria,UD Almeria,FC Barcelona,67,0,7,Rebound,Left foot,Won
+ 20 - 11 - 2010,Liga,UD Almeria,UD Almeria,FC Barcelona,37,0,5,Rebound,Left foot,Won
+ 20 - 11 - 2010,Liga,UD Almeria,UD Almeria,FC Barcelona,17,0,1,Field goal,Left foot,Won
+ 7 - 11 - 2010,Liga,Getafe,Getafe,FC Barcelona,23,0,1,,Left foot,Won
+ 23 - 10 - 2010,Liga,Real Zaragoza,Real Zaragoza,FC Barcelona,66,0,2,,Left foot,Won
+ 23 - 10 - 2010,Liga,Real Zaragoza,Real Zaragoza,FC Barcelona,42,0,1,,Left foot,Won
+ 19 - 9 - 2010,Liga,Atletico Madrid,Atletico Madrid,FC Barcelona,13,0,1,,Left foot,Won
+ 8 - 5 - 2010,Liga,Sevilla,Sevilla,FC Barcelona,5,0,1,,Left foot,Won
+ 1 - 5 - 2010,Liga,Villarreal,Villarreal,FC Barcelona,19,0,1,,Left foot,Won
+ 21 - 3 - 2010,Liga,Real Zaragoza,Real Zaragoza,FC Barcelona,78,0,3,,Left foot,Won
+ 21 - 3 - 2010,Liga,Real Zaragoza,Real Zaragoza,FC Barcelona,66,0,2,Solo run,Left foot,Won
+ 23 - 1 - 2010,Liga,Real Valladolid,Real Valladolid,FC Barcelona,56,0,3,,Left foot,Won
+ 10 - 1 - 2010,Liga,Tenerife,Tenerife,FC Barcelona,75,0,4,,Left foot,Won
+ 10 - 1 - 2010,Liga,Tenerife,Tenerife,FC Barcelona,36,0,1,,Left foot,Won
+ 5 - 12 - 2009,Liga,Deportivo La Coruna,Deportivo La Coruna,FC Barcelona,27,0,1,,Left foot,Won
+ 22 - 9 - 2009,Liga,Racing Santander,Racing Santander,FC Barcelona,63,0,4,,Left foot,Won
+ 22 - 9 - 2009,Liga,Racing Santander,Racing Santander,FC Barcelona,24,0,2,,Left foot,Won
+ 25 - 4 - 2009,Liga,Valencia,Valencia,FC Barcelona,24,0,1,,Left foot,Draw
+ 18 - 4 - 2009,Liga,Getafe,Getafe,FC Barcelona,19,0,1,,Left foot,Won
+ 1 - 3 - 2009,Liga,Atletico Madrid,Atletico Madrid,FC Barcelona,30,0,2,,Left foot,Lost
+ 29 - 11 - 2008,Liga,Sevilla,Sevilla,FC Barcelona,90+2,0,3,,Left foot,Won
+ 29 - 11 - 2008,Liga,Sevilla,Sevilla,FC Barcelona,78,0,2,,Left foot,Won
+ 16 - 11 - 2008,Liga,Recreativo Huelva,Recreativo Huelva,FC Barcelona,52,0,1,,Left foot,Won
+ 29 - 9 - 2007,Liga,Levante,Levante,FC Barcelona,51,0,4,,Left foot,Won
+ 17 - 6 - 2007,Liga,Gimnasia fc,Gimnasia fc,FC Barcelona,51,0,4,,Left foot,Won
+ 17 - 6 - 2007,Liga,Gimnasia fc,Gimnasia fc,FC Barcelona,35,0,2,,Left foot,Won
+ 20 - 5 - 2007,Liga,Atletico Madrid,Atletico Madrid,FC Barcelona,80,0,5,,Left foot,Won
+ 20 - 5 - 2007,Liga,Atletico Madrid,Atletico Madrid,FC Barcelona,39,0,1,,Left foot,Won
+ 17 - 3 - 2007,Liga,Recreativo Huelva,Recreativo Huelva,FC Barcelona,86,0,4,,Left foot,Won
+ 29 - 1 - 2006,Liga,Real Mallorca,Real Mallorca,FC Barcelona,81,0,3,,Left foot,Won
