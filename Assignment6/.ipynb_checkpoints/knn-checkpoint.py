@@ -14,7 +14,7 @@ class KNN:
         self.Y_train = Y
         
     def predict(self,X):
-        Y= []
+        Y = []
         for x in X: 
             distances = []
             for x_train in self.X_train:
