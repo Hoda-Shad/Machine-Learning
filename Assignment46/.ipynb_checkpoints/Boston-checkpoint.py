@@ -1,21 +1,13 @@
 import numpy as np
 from sklearn.model_selection import train_test_split
 import pandas as pd
-from perceptron_Boston import perceptron
-import matplotlib.pyplot as plt
-import seaborn as sns
+from perceptron_Boston_1 import perceptron
 
 data = pd.read_csv('Dataset/Boston.csv')
-cor = data.corr()
-# sns.heatmap(cor, annot=True, cmap=plt.cm.Reds)
-# plt.show()
-
-target = abs(data['medv'])
-relevant_features = target[target>0.5]
-# print(relevant_features)
-
-X = np.array(data[['lstat', 'ptratio']])
-Y = np.array(data['medv'])
+print(data['indus'])
+X = np.array(data[['indus', 'rad']])
+print(X.shape)
+Y = np.array(data['tax'])
 Y = Y.reshape(-1, 1)
 
 # print(Y.shape)
