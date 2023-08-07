@@ -4,7 +4,11 @@ import matplotlib.pyplot as plt
 fig = plt.figure(figsize=(12, 6))
 ax1 = fig.add_subplot(121, projection="3d")
 ax2 = fig.add_subplot(122)
-
+ax1.set_xlabel('lstat')
+ax1.set_ylabel('ptratio')
+ax1.set_zlabel('price')
+ax2.set_xlabel('iterations', fontsize=10)
+ax2.set_ylabel('values', fontsize=10)
 
 class perceptron:
     def __init__(self, w, b):
@@ -29,11 +33,7 @@ class perceptron:
                 # loss = self.evaluate(x, y)
                 losses.append(self.evaluate(X_train,y_train))
                 xx, yy = np.meshgrid(X_train[:, 0], X_train[:, 1])
-                ax1.set_xlabel('lstat')
-                ax1.set_ylabel('ptratio')
-                ax1.set_zlabel('price')
-                ax2.set_xlabel('$iterations$', fontsize=10)
-                ax2.set_ylabel('$values$', fontsize=10)
+
 
                 ax1.clear()
                 ax1.scatter(X_train[:, 0], X_train[:, 1], y_train, c='r', marker='o')
