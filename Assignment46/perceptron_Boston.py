@@ -31,7 +31,7 @@ class perceptron:
                 self.w = self.w + error * x * learning_rate_w
                 self.b = self.b + error * learning_rate_b
                 # loss = self.evaluate(x, y)
-                losses.append(self.evaluate(X_train,y_train))
+
                 xx, yy = np.meshgrid(X_train[:, 0], X_train[:, 1])
 
 
