@@ -7,9 +7,9 @@
 ![1_result.png](output%2F1_result.png)
 
 Model Evaluate Loss Value: 
-![result-price-test .png](result-price-test%20.png)
+![result-weather-test .png](output%2Fresult-weather-test%20.png)
 
 ## 2- House Price prediction
 ![price_train_result.png](output%2Fprice_train_result.png)
 
-![result-price-test .png](result-price-test%20.png)
+![result-price-test .png](output%2Fresult-price-test%20.png)
